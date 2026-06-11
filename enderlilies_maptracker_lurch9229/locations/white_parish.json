@@ -148,9 +148,10 @@
         ]
     },
     {
-        "item_count": 1,
+        "name": "World Map_9",
         "children": [
             {
+                "name" : "White Parish - Church 04",
                 "sections": [
                     {
                         "ref": "White Parish/White Parish - Church_04 - Finding/Groa's Letter",
@@ -166,6 +167,7 @@
                 ]
             },
             {
+                "name" : "White Parish - Church 07",
                 "sections": [
                     {
                         "ref": "White Parish/White Parish - Church_07 - Chain of Sorcery/Chain of Sorcery (+1 Relic Slot)",
@@ -185,6 +187,7 @@
                 ]
             },
             {
+                "name" : "White Parish - Church 08",
                 "sections": [
                     {
                         "ref": "White Parish/White Parish - Church_08 - Amulet Fragment/Amulet Fragment (+5 HP)",

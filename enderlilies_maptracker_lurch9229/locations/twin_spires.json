@@ -1176,9 +1176,10 @@
         ]
     },
     {
-        "item_count": 1,
+        "name": "World Map_7",
         "children": [
             {
+                "name" : "Twin Spires - Fort 04",
                 "sections": [
                     {
                         "ref": "Twin Spires/Twin Spires - Fort_04 - Stagnant Blight/Stagnant Blight x100",
@@ -1194,6 +1195,7 @@
                 ]
             },
             {
+                "name" : "Twin Spires - Fort 05",
                 "sections": [
                     {
                         "ref": "Twin Spires/Twin Spires - Fort_05 - Stagnant Blight/Stagnant Blight x10",
@@ -1217,6 +1219,7 @@
                 ]
             },
             {
+                "name" : "Twin Spires - Fort 06",
                 "sections": [
                     {
                         "ref": "Twin Spires/Twin Spires - Fort_06 - Stagnant Blight/Stagnant Blight x30",
@@ -1232,6 +1235,7 @@
                 ]
             },
             {
+                "name" : "Twin Spires - Fort 07",
                 "sections": [
                     {
                         "ref": "Twin Spires/Twin Spires - Fort_07 - Stagnant Blight/Stagnant Blight x10",
@@ -1247,6 +1251,7 @@
                 ]
             },
             {
+                "name" : "Twin Spires - Fort 08",
                 "sections": [
                     {
                         "ref": "Twin Spires/Twin Spires - Fort_08 - Finding/Hoenir's Diary III",
@@ -1262,6 +1267,7 @@
                 ]
             },
             {
+                "name" : "Twin Spires - Fort 09",
                 "sections": [
                     {
                         "ref": "Twin Spires/Twin Spires - Fort_09 - Finding/Note on the Castle Wall",
@@ -1289,6 +1295,7 @@
                 ]
             },
             {
+                "name" : "Twin Spires - Fort 10",
                 "sections": [
                     {
                         "ref": "Twin Spires/Twin Spires - Fort_10 - Amulet Fragment/Amulet Fragment (+5 HP)",
@@ -1308,6 +1315,7 @@
                 ]
             },
             {
+                "name" : "Twin Spires - Fort 11",
                 "sections": [
                     {
                         "ref": "Twin Spires/Twin Spires - Fort_11 - Relic/Ricorus' Ring",
@@ -1327,6 +1335,7 @@
                 ]
             },
             {
+                "name" : "Twin Spires - Fort 12",
                 "sections": [
                     {
                         "ref": "Twin Spires/Twin Spires - Fort_12 - Amulet Fragment/Amulet Fragment (+5 HP)",
@@ -1346,6 +1355,7 @@
                 ]
             },
             {
+                "name" : "Twin Spires - Fort 13",
                 "sections": [
                     {
                         "ref": "Twin Spires/Twin Spires - Fort_13 - Chain of Sorcery (In Barrel)/Chain of Sorcery (+1 Relic Slot)",
@@ -1365,6 +1375,7 @@
                 ]
             },
             {
+                "name" : "Twin Spires - Fort 14",
                 "sections": [
                     {
                         "ref": "Twin Spires/Twin Spires - Fort_14 - Stagnant Blight/Stagnant Blight x100",
@@ -1388,6 +1399,7 @@
                 ]
             },
             {
+                "name" : "Twin Spires - Fort 15",
                 "sections": [
                     {
                         "ref": "Twin Spires/Twin Spires - Fort_15 - Stagnant Blight Lower/Stagnant Blight x30",
@@ -1415,6 +1427,7 @@
                 ]
             },
             {
+                "name" : "Twin Spires - Fort 16",
                 "sections": [
                     {
                         "ref": "Twin Spires/Twin Spires - Fort_16 - Finding/Monument Engraving",
@@ -1430,6 +1443,7 @@
                 ]
             },
             {
+                "name" : "Twin Spires - Fort 17",
                 "sections": [
                     {
                         "ref": "Twin Spires/Twin Spires - Fort_17 - Amulet Fragment/Amulet Fragment (+5 HP)",
@@ -1445,6 +1459,7 @@
                 ]
             },
             {
+                "name" : "Twin Spires - Fort 18",
                 "sections": [
                     {
                         "ref": "Twin Spires/Twin Spires - Fort_18 - Chain of Sorcery (In Crate)/Chain of Sorcery (+1 Relic Slot)",
@@ -1464,6 +1479,7 @@
                 ]
             },
             {
+                "name" : "Twin Spires - Fort 19",
                 "sections": [
                     {
                         "ref": "Twin Spires/Twin Spires - Fort_19 - Relic/Ancient Dragon Claw",
@@ -1487,6 +1503,7 @@
                 ]
             },
             {
+                "name" : "Twin Spires - Fort 21",
                 "sections": [
                     {
                         "ref": "Twin Spires/Twin Spires - Fort_21 - Main Spirit Fight/Ulv, The Mad Knight Fight",
@@ -1510,6 +1527,7 @@
                 ]
             },
             {
+                "name" : "Hinterlands - Outside 03",
                 "sections": [
                     {
                         "ref": "Twin Spires/Hinterlands - Outside_03 - Stagnant Blight/Stagnant Blight x100",

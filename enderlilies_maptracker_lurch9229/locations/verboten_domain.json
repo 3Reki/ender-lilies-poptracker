@@ -1253,9 +1253,10 @@
         ] 
     },
     {
-        "item_count": 1,
+        "name": "World Map_8",
         "children": [
             {
+                "name" : "Verboten Domain - Swamp 03",
                 "sections": [
                     {
                         "ref": "Verboten Domain/Verboten Domain - Swamp_3 - Stagnant Blight/Stagnant Blight x30",
@@ -1275,6 +1276,7 @@
                 ]
             },
             {
+                "name" : "Verboten Domain - Swamp 04",
                 "sections": [
                     {
                         "ref": "Verboten Domain/Verboten Domain - Swamp_04 - Chain of Sorcery/Chain of Sorcery (+1 Relic Slot)",
@@ -1294,6 +1296,7 @@
                 ]
             },
             {
+                "name" : "Verboten Domain - Swamp 05",
                 "sections": [
                     {
                         "ref": "Verboten Domain/Verboten Domain - Swamp_05 - Stagnant Blight/Stagnant Blight x30",
@@ -1313,6 +1316,7 @@
                 ]
             },
             {
+                "name" : "Verboten Domain - Swamp 06",
                 "sections": [
                     {
                         "ref": "Verboten Domain/Verboten Domain - Swamp_06 - Stagnant Blight/Stagnant Blight x30",
@@ -1336,6 +1340,7 @@
                 ]
             },
             {
+                "name" : "Verboten Domain - Swamp 07",
                 "sections": [
                     {
                         "ref": "Verboten Domain/Verboten Domain - Swamp_07 - Amulet Fragment/Amulet Fragment (+5 HP)",
@@ -1355,6 +1360,7 @@
                 ]
             },
             {
+                "name" : "Verboten Domain - Swamp 08",
                 "sections": [
                     {
                         "ref": "Verboten Domain/Verboten Domain - Swamp_08 - Furious Blight/Furious Blight x100",
@@ -1378,6 +1384,7 @@
                 ]
             },
             {
+                "name" : "Verboten Domain - Swamp 09",
                 "sections": [
                     {
                         "ref": "Verboten Domain/Verboten Domain - Swamp_09 - Relic/Weathered Necklace",
@@ -1397,6 +1404,7 @@
                 ]
             },
             {
+                "name" : "Verboten Domain - Swamp 10",
                 "sections": [
                     {
                         "ref": "Verboten Domain/Verboten Domain - Swamp_10 - Stagnant Blight/Stagnant Blight x30",
@@ -1416,6 +1424,7 @@
                 ]
             },
             {
+                "name" : "Verboten Domain - Swamp 11",
                 "sections": [
                     {
                         "ref": "Verboten Domain/Verboten Domain - Swamp_11 - Relic/Blighted Appendage",
@@ -1435,6 +1444,7 @@
                 ]
             },
             {
+                "name" : "Verboten Domain - Swamp 12",
                 "sections": [
                     {
                         "ref": "Verboten Domain/Verboten Domain - Swamp_12 - Priestess' Wish/Priestess' Wish (Prayer Upgrade)",
@@ -1454,6 +1464,7 @@
                 ]
             },
             {
+                "name" : "Verboten Domain - Swamp 13",
                 "sections": [
                     {
                         "ref": "Verboten Domain/Verboten Domain - Swamp_13 - Amulet Fragment/Amulet Fragment (+5 HP)",
@@ -1477,6 +1488,7 @@
                 ]
             },
             {
+                "name" : "Verboten Domain - Swamp 14",
                 "sections": [
                     {
                         "ref": "Verboten Domain/Verboten Domain - Swamp_14 - Stagnant Blight/Stagnant Blight x100",
@@ -1496,6 +1508,7 @@
                 ]
             },
             {
+                "name" : "Verboten Domain - Swamp 15",
                 "sections": [
                     {
                         "ref": "Verboten Domain/Verboten Domain - Swamp_15 - Stagnant Blight/Stagnant Blight x30",
@@ -1515,6 +1528,7 @@
                 ]
             },
             {
+                "name" : "Verboten Domain - Swamp 16",
                 "sections": [
                     {
                         "ref": "Verboten Domain/Verboten Domain - Swamp_16 - Finding/Faden's Archives I",
@@ -1530,6 +1544,7 @@
                 ]
             },
             {
+                "name" : "Verboten Domain - Swamp 18",
                 "sections": [
                     {
                         "ref": "Verboten Domain/Verboten Domain - Swamp_18 - Stagnant Blight/Stagnant Blight x800",
@@ -1557,6 +1572,7 @@
                 ]
             },
             {
+                "name" : "The Abyss - Abyss 01",
                 "sections": [
                     {
                         "ref": "Verboten Domain/The Abyss - Abyss_01 - Furious Blight/Furious Blight x100",
@@ -1576,6 +1592,7 @@
                 ]
             },
             {
+                "name" : "The Abyss - Abyss 02",
                 "sections": [
                     {
                         "ref": "Verboten Domain/The Abyss - Abyss_02 - Relic/White Priestess' Earrings",
@@ -1603,6 +1620,7 @@
                 ]
             },
             {
+                "name" : "The Abyss - Abyss 04",
                 "sections": [
                     {
                         "ref": "Verboten Domain/The Abyss - Abyss_04 - Stagnant Blight Upper/Stagnant Blight x100",
@@ -1622,6 +1640,7 @@
                 ]
             },
             {
+                "name" : "The Abyss - Abyss 05",
                 "sections": [
                     {
                         "ref": "Verboten Domain/The Abyss - Abyss_05 - Ancient Soul/Ancient Soul x2",

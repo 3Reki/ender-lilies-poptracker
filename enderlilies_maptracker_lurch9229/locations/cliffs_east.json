@@ -501,9 +501,10 @@
         ]
     },
     {
-        "item_count": 1,
+        "name": "World Map_3",
         "children": [
             {
+                "name" : "Cliffside Hamlet - Village 10",
                 "sections": [
                     {
                         "ref": "Cliffside Hamlet East/Cliffside Hamlet - Village_10 - Main Spirit Fight/Gerrod, The Elder Warrior Fight",
@@ -519,6 +520,7 @@
                 ]
             },
             {
+                "name" : "Cliffside Hamlet - Village 11",
                 "sections": [
                     {
                         "ref": "Cliffside Hamlet East/Cliffside Hamlet - Village_11 - Finding Left/Hamlet Scrawl",
@@ -542,6 +544,7 @@
                 ]
             },
             {
+                "name" : "Cliffside Hamlet - Village 11_1",
                 "sections": [
                     {
                         "ref": "Cliffside Hamlet East/Cliffside Hamlet - Village_11_1 - Priestess' Wish/Priestess' Wish (Prayer Upgrade)",
@@ -557,6 +560,7 @@
                 ]
             },
             {
+                "name" : "Cliffside Hamlet - Village 15",
                 "sections": [
                     {
                         "ref": "Cliffside Hamlet East/Cliffside Hamlet - Village_15 - Furious Blight/Furious Blight x10",
@@ -580,6 +584,7 @@
                 ]
             },
             {
+                "name" : "Cliffside Hamlet - Castle 01",
                 "sections": [
                     {
                         "ref": "Cliffside Hamlet East/Cliffside Hamlet - Castle_01 - Stagnant Blight/Stagnant Blight x100",
@@ -611,6 +616,7 @@
                 ]
             },
             {
+                "name" : "Twin Spires - Fort 01",
                 "sections": [
                     {
                         "ref": "Cliffside Hamlet East/Twin Spires - Fort_01 - Furious Blight/Furious Blight x30",
@@ -630,6 +636,7 @@
                 ]
             },
             {
+                "name" : "Twin Spires - Fort 03",
                 "sections": [
                     {
                         "ref": "Cliffside Hamlet East/Twin Spires - Fort_03 - Finding/Bloodied Note I",

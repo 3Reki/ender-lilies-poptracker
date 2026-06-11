@@ -1110,9 +1110,10 @@
         ]
     },
     {
-        "item_count": 1,
+        "name": "World Map_4",
         "children": [
             {
+                "name" : "Cliffside Hamlet - Village 02",
                 "sections": [
                     {
                         "ref": "Cliffside Hamlet West/Cliffside Hamlet - Village_02 - Stagnant Blight Left/Stagnant Blight x30",
@@ -1136,6 +1137,7 @@
                 ]
             },
             {
+                "name" : "Cliffside Hamlet - Village 03",
                 "sections": [
                     {
                         "ref": "Cliffside Hamlet West/Cliffside Hamlet - Village_03 - Furious Blight/Furious Blight x10",
@@ -1163,6 +1165,7 @@
                 ]
             },
             {
+                "name" : "Cliffside Hamlet - Village 04",
                 "sections": [
                     {
                         "ref": "Cliffside Hamlet West/Cliffside Hamlet - Village_04 - Relic/Bloodstained Ribbon",
@@ -1186,6 +1189,7 @@
                 ]
             },
             {
+                "name" : "Cliffside Hamlet - Village 04_1",
                 "sections": [
                     {
                         "ref": "Cliffside Hamlet West/Cliffside Hamlet - Village_04_1 - Sub-Spirit Fight/Western Merchant Fight",
@@ -1201,6 +1205,7 @@
                 ]
             },
             {
+                "name" : "Cliffside Hamlet - Village 05",
                 "sections": [
                     {
                         "ref": "Cliffside Hamlet West/Cliffside Hamlet - Village_05 - Finding/True Believer's Note",
@@ -1216,6 +1221,7 @@
                 ]
             },
             {
+                "name" : "Cliffside Hamlet - Village 06",
                 "sections": [
                     {
                         "ref": "Cliffside Hamlet West/Cliffside Hamlet - Village_06 - Amulet Fragment/Amulet Fragment (+5 HP)",
@@ -1247,6 +1253,7 @@
                 ]
             },
             {
+                "name" : "Cliffside Hamlet - Village 07",
                 "sections": [
                     {
                         "ref": "Cliffside Hamlet West/Cliffside Hamlet - Village_07 - Stagnant Blight/Stagnant Blight x10",
@@ -1270,6 +1277,7 @@
                 ]
             },
             {
+                "name" : "Cliffside Hamlet - Village 08",
                 "sections": [
                     {
                         "ref": "Cliffside Hamlet West/Cliffside Hamlet - Village_08 - Stagnant Blight/Stagnant Blight x10",
@@ -1293,6 +1301,7 @@
                 ]
             },
             {
+                "name" : "Cliffside Hamlet - Village 09",
                 "sections": [
                     {
                         "ref": "Cliffside Hamlet West/Cliffside Hamlet - Village_09 - Finding Lower/Hamlet Request I",
@@ -1312,6 +1321,7 @@
                 ]
             },
             {
+                "name" : "Cliffside Hamlet - Village 12",
                 "sections": [
                     {
                         "ref": "Cliffside Hamlet West/Cliffside Hamlet - Village_12 - Stagnant Blight/Stagnant Blight x10",
@@ -1327,6 +1337,7 @@
                 ]
             },
             {
+                "name" : "Cliffside Hamlet - Village 13",
                 "sections": [
                     {
                         "ref": "Cliffside Hamlet West/Cliffside Hamlet - Village_13 - Stagnant Blight/Stagnant Blight x10",
@@ -1354,6 +1365,7 @@
                 ]
             },
             {
+                "name" : "Cliffside Hamlet - Village 14",
                 "sections": [
                     {
                         "ref": "Cliffside Hamlet West/Cliffside Hamlet - Village_14 - Furious Blight/Furious Blight x30",
@@ -1377,6 +1389,7 @@
                 ]
             },
             {
+                "name" : "Cliffside Hamlet - Village 16",
                 "sections": [
                     {
                         "ref": "Cliffside Hamlet West/Cliffside Hamlet - Village_16 - Finding/Faden's Letter",
@@ -1396,6 +1409,7 @@
                 ]
             },
             {
+                "name" : "Catacombs - Cave 01",
                 "sections": [
                     {
                         "ref": "Cliffside Hamlet West/Catacombs - Cave_01 - Relic/Fretia's Ring",

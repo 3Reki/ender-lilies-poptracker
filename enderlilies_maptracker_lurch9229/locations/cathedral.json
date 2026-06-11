@@ -421,9 +421,10 @@
         ]
     },
     {
-        "item_count": 1,
+        "name": "World Map_2",
         "children": [
             {
+                "name" : "Cathedral - Church 02",
                 "sections": [
                     {
                         "ref": "Cathedral/Cathedral - Church_02 - Finding/Eleine's Letter",
@@ -444,6 +445,7 @@
                     
             },
             {
+                "name" : "Cathedral - Church 03",
                 "sections": [
                     {
                         "ref": "Cathedral/Cathedral - Church_03 - Sub-Spirit Fight/Guardian Siegrid Fight",
@@ -459,6 +461,7 @@
                 ]
             },
             {
+                "name" : "Cathedral - Church 05",
                 "sections": [
                     {
                         "ref": "Cathedral/Cathedral - Church_05 - Relic/Soiled Prayer Beads",
@@ -474,6 +477,7 @@
                 ]
             },
             {
+                "name" : "Cathedral - Church 09",
                 "sections": [
                     {
                         "ref": "Cathedral/Cathedral - Church_09 - Sub-Spirit Fight/Chief Guardian Fight",
@@ -497,6 +501,7 @@
                 ]
             },
             {
+                "name" : "Cathedral - Church 10",
                 "sections": [
                     {
                         "ref": "Cathedral/Cathedral - Church_10 - Finding Left/On the Blighted I",
@@ -516,6 +521,7 @@
                 ]
             },
             {
+                "name" : "Cathedral - Church 11",
                 "sections": [
                     {
                         "ref": "Cathedral/Cathedral - Church_11 - Amulet Fragment/Amulet Fragment (+5 HP)",
@@ -535,6 +541,7 @@
                 ]
             },
             {
+                "name" : "Cathedral - Church 12",
                 "sections": [
                     {
                         "ref": "Cathedral/Cathedral - Church_12 - Finding/Statue Inscription",
@@ -550,6 +557,7 @@
                 ]
             },
             {
+                "name" : "Cathedral - Church 13",
                 "sections": [
                     {
                         "ref": "Cathedral/Cathedral - Church_13 - Relic/Luminant Aegis Curio",
@@ -569,6 +577,7 @@
                 ]
             },
             {
+                "name" : "Cathedral - Church 14",
                 "sections": [
                     {
                         "ref": "Cathedral/Cathedral - Church_14 - Priestess' Wish/Priestess' Wish (Prayer Upgrade)",

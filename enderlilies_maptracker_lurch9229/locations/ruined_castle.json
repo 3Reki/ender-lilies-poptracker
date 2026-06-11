@@ -1274,9 +1274,10 @@
         ]
     },
     {
-        "item_count": 1,
+        "name": "World Map_5",
         "children": [
             {
+                "name" : "Ruined Castle - Castle 02",
                 "sections": [
                     {
                         "ref": "Ruined Castle/Ruined Castle - Castle_02 - Stagnant Blight/Stagnant Blight x30",
@@ -1296,6 +1297,7 @@
                 ]
             },
             {
+                "name" : "Ruined Castle - Castle 03",
                 "sections": [
                     {
                         "ref": "Ruined Castle/Ruined Castle - Castle_03 - Stagnant Blight/Stagnant Blight x30",
@@ -1315,6 +1317,7 @@
                 ]
             },
             {
+                "name" : "Ruined Castle - Castle 04",
                 "sections": [
                     {
                         "ref": "Ruined Castle/Ruined Castle - Castle_04 - Finding/Report from a Verboten Mage",
@@ -1330,6 +1333,7 @@
                 ]
             },
             {
+                "name" : "Ruined Castle - Castle 06",
                 "sections": [
                     {
                         "ref": "Ruined Castle/Ruined Castle - Castle_06 - Relic/Royal Aegis Crest",
@@ -1349,6 +1353,7 @@
                 ]
             },
             {
+                "name" : "Ruined Castle - Castle 07",
                 "sections": [
                     {
                         "ref": "Ruined Castle/Ruined Castle - Castle_07 - Finding/Proof of Founding",
@@ -1364,6 +1369,7 @@
                 ]
             },
             {
+                "name" : "Ruined Castle - Castle 08",
                 "sections": [
                     {
                         "ref": "Ruined Castle/Ruined Castle - Castle_08 - Relic/Blightwreathed Blade",
@@ -1395,6 +1401,7 @@
                 ]
             },
             {
+                "name" : "Ruined Castle - Castle 09",
                 "sections": [
                     {
                         "ref": "Ruined Castle/Ruined Castle - Castle_09 - Furious Blight/Furious Blight x30",
@@ -1410,6 +1417,7 @@
                 ]
             },
             {
+                "name" : "Ruined Castle - Castle 10",
                 "sections": [
                     {
                         "ref": "Ruined Castle/Ruined Castle - Castle_10 - Stagnant Blight/Stagnant Blight x30",
@@ -1428,7 +1436,8 @@
                     }
                 ]
             },
-            { 
+            {
+                "name" : "Ruined Castle - Castle 12",
                 "sections": [
                     {
                         "ref": "Ruined Castle/Ruined Castle - Castle_12 - Stagnant Blight/Stagnant Blight x30",
@@ -1456,6 +1465,7 @@
                 ]
             },
             {
+                "name" : "Ruined Castle - Castle 13",
                 "sections": [
                     {
                         "ref": "Ruined Castle/Ruined Castle - Castle_13 - Amulet Gem/Amulet Gem (+20 HP)",
@@ -1471,6 +1481,7 @@
                 ]
             },
             {
+                "name" : "Ruined Castle - Castle 14",
                 "sections": [
                     {
                         "ref": "Ruined Castle/Ruined Castle - Castle_14 - Stagnant Blight/Stagnant Blight x100",
@@ -1494,6 +1505,7 @@
                 ]
             },
             {
+                "name" : "Ruined Castle - Castle 15",
                 "sections": [
                     {
                         "ref": "Ruined Castle/Ruined Castle - Castle_15 - Finding/Priestess' Castle Memo",
@@ -1513,6 +1525,7 @@
                 ]
             },
             {
+                "name" : "Ruined Castle - Castle 16",
                 "sections": [
                     {
                         "ref": "Ruined Castle/Castle Roof - Castle_16/One-Eyed Royal Aegis Fight",
@@ -1536,6 +1549,7 @@
                 ]
             },
             {
+                "name" : "Ruined Castle - Castle 17",
                 "sections": [
                     {
                         "ref": "Ruined Castle/Ruined Castle - Castle_17 - Stagnant Blight/Stagnant Blight x30",
@@ -1551,6 +1565,7 @@
                 ]
             },
             {
+                "name" : "Ruined Castle - Castle 18",
                 "sections": [
                     {
                         "ref": "Ruined Castle/Ruined Castle - Castle_18 - Amulet Fragment/Amulet Fragment (+5 HP)",
@@ -1578,6 +1593,7 @@
                 ]
             },
             {
+                "name" : "Ruined Castle - Castle 19",
                 "sections": [
                     {
                         "ref": "Ruined Castle/Ruined Castle - Castle_19 - Finding/King's Note I",
@@ -1593,6 +1609,7 @@
                 ]
             },
             {
+                "name" : "Ruined Castle - Castle 20",
                 "sections": [
                     {
                         "ref": "Ruined Castle/Ruined Castle - Castle_20 - Main Spirit Fight/Knight Captain Julius Fight",
@@ -1608,6 +1625,7 @@
                 ]
             },
             {
+                "name" : "Ruined Castle - Castle 21",
                 "sections": [
                     {
                         "ref": "Ruined Castle/Ruined Castle - Castle_21 - Stagnant Blight/Stagnant Blight x100",

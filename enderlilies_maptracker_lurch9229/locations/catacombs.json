@@ -1347,9 +1347,10 @@
         ]
     },
     {
-        "item_count": 1,
+        "name": "World Map_1",
         "children": [
             {
+                "name" : "Catacombs - Cave 02",
                 "sections": [
                     {
                         "ref": "Catacombs/Catacombs - Cave_02 - Stagnant Blight Lower Left/Stagnant Blight x10",
@@ -1369,6 +1370,7 @@
                 ]
             },
             {
+                "name" : "Catacombs - Cave 03",
                 "sections": [
                     {
                         "ref": "Catacombs/Catacombs - Cave_03 - Finding Left/Defense of the Twin Spires II",
@@ -1388,6 +1390,7 @@
                 ]
             },
             {
+                "name" : "Catacombs - Cave 04",
                 "sections": [
                     {
                         "ref": "Catacombs/Catacombs - Cave_04 - Amulet Fragment/Amulet Fragment (+5 HP)",
@@ -1403,6 +1406,7 @@
                 ]
             },
             {
+                "name" : "Catacombs - Cave 05",
                 "sections": [
                     {
                         "ref": "Catacombs/Catacombs - Cave_05 - Furious Blight/Furious Blight x10",
@@ -1418,6 +1422,7 @@
                 ]
             },
             {
+                "name" : "Catacombs - Cave 06",
                 "sections": [
                     {
                         "ref": "Catacombs/Catacombs - Cave_06 - Finding Upper/Fretia's Memoirs I",
@@ -1441,6 +1446,7 @@
                 ]
             },
             {
+                "name" : "Catacombs - Cave 07",
                 "sections": [
                     {
                         "ref": "Catacombs/Catacombs - Cave_07 - Sub-Spirit Fight/Elder Crypt Keeper Fight",
@@ -1460,6 +1466,7 @@
                 ]
             },
             {
+                "name" : "Catacombs - Cave 08",
                 "sections": [
                     {
                         "ref": "Catacombs/Catacombs - Cave_08 - Amulet Fragment/Amulet Fragment (+5 HP)",
@@ -1475,6 +1482,7 @@
                 ]
             },
             {
+                "name" : "Catacombs - Cave 09",
                 "sections": [
                     {
                         "ref": "Catacombs/Catacombs - Cave_09 - Amulet Fragment (In Pot)/Amulet Fragment (+5 HP)",
@@ -1494,6 +1502,7 @@
                 ]
             },
             {
+                "name" : "Catacombs - Cave 10",
                 "sections": [
                     {
                         "ref": "Catacombs/Catacombs - Cave_10 - Amulet Fragment (In Pot)/Amulet Fragment (+5 HP)",
@@ -1513,6 +1522,7 @@
                 ]
             },
             {
+                "name" : "Catacombs - Cave 11",
                 "sections": [
                     {
                         "ref": "Catacombs/Catacombs - Cave_11 - Furious Blight/Furious Blight x10",
@@ -1536,6 +1546,7 @@
                 ]
             },
             {
+                "name" : "Catacombs - Cave 12",
                 "sections": [
                     {
                         "ref": "Catacombs/Catacombs - Cave_12 - Tablet/Catacombs Stone Tablet Fragment",
@@ -1551,6 +1562,7 @@
                 ]
             },
             {
+                "name" : "Catacombs - Cave 13",
                 "sections": [
                     {
                         "ref": "Catacombs/Catacombs - Cave_13 - Furious Blight Lower/Furious Blight x30",
@@ -1574,6 +1586,7 @@
                 ]
             },
             {
+                "name" : "Catacombs - Cave 14",
                 "sections": [
                     {
                         "ref": "Catacombs/Catacombs - Cave_14 - Stagnant Blight/Stagnant Blight x10",
@@ -1589,6 +1602,7 @@
                 ]
             },
             {
+                "name" : "Catacombs - Cave 15",
                 "sections": [
                     {
                         "ref": "Catacombs/Catacombs - Cave_15 - Stagnant Blight Left/Stagnant Blight x10",
@@ -1612,6 +1626,7 @@
                 ]
             },
             {
+                "name" : "Catacombs - Cave 16",
                 "sections": [
                     {
                         "ref": "Catacombs/Catacombs - Cave_16 - Stagnant Blight/Stagnant Blight x30",
@@ -1631,6 +1646,7 @@
                 ]
             },
             {
+                "name" : "Catacombs - Cave 17",
                 "sections": [
                     {
                         "ref": "Catacombs/Catacombs - Cave_17 - Ancient Soul/Ancient Soul x2",
@@ -1646,6 +1662,7 @@
                 ]
             },
             {
+                "name" : "Catacombs - Cave 18",
                 "sections": [
                     {
                         "ref": "Catacombs/Catacombs - Cave_18 - Relic/Holy Spring Water",
@@ -1661,6 +1678,7 @@
                 ]
             },
             {
+                "name" : "Catacombs - Cave 19",
                 "sections": [
                     {
                         "ref": "Catacombs/Catacombs - Cave_19 - Chain of Sorcery (In Pot)/Chain of Sorcery (+1 Relic Slot)",
@@ -1684,6 +1702,7 @@
                 ]
             },
             {
+                "name" : "Catacombs - Cave 20",
                 "sections": [
                     {
                         "ref": "Catacombs/Catacombs - Cave_20 - Finding/The Heirloom of Land's End",
@@ -1707,6 +1726,7 @@
                 ]
             },
             {
+                "name" : "Catacombs - Cave 21",
                 "sections": [
                     {
                         "ref": "Catacombs/Catacombs - Cave_21 - Relic/Priestess Statue",
@@ -1722,6 +1742,7 @@
                 ]
             },
             {
+                "name" : "Catacombs - Cave 22",
                 "sections": [
                     {
                         "ref": "Catacombs/Catacombs - Cave_22 - Finding/Fretia's Memoirs III",
@@ -1737,6 +1758,7 @@
                 ]
             },
             {
+                "name" : "Catacombs - Cave 23",
                 "sections": [
                     {
                         "ref": "Catacombs/Catacombs - Cave_23 - Finding/Unfinished Note",
@@ -1756,6 +1778,7 @@
                 ]
             },
             {
+                "name" : "Twin Spires - Fort 02",
                 "sections": [
                     {
                         "ref": "Catacombs/Twin Spires - Fort_02 - Stagnant Blight/Stagnant Blight x10",

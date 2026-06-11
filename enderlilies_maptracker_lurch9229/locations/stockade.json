@@ -1068,9 +1068,10 @@
         ]
     },
     {
-        "item_count": 1,
+        "name": "World Map_6",
         "children": [
             {
+                "name" : "Stockade - Oubliette 02",
                 "sections": [
                     {
                         "ref": "Stockade/Stockade - Oubliette_02 - Finding/Executioner's Vow",
@@ -1086,6 +1087,7 @@
                 ]
             },
             {
+                "name" : "Stockade - Oubliette 03",
                 "sections": [
                     {
                         "ref": "Stockade/Stockade - Oubliette_03 - Stagnant Blight Left/Stagnant Blight x10",
@@ -1109,6 +1111,7 @@
                 ]
             },
             {
+                "name" : "Stockade - Oubliette 04",
                 "sections": [
                     {
                         "ref": "Stockade/Stockade - Oubliette_04 - Stagnant Blight/Stagnant Blight x30",
@@ -1128,6 +1131,7 @@
                 ]
             },
             {
+                "name" : "Stockade - Oubliette 05",
                 "sections": [
                     {
                         "ref": "Stockade/Stockade - Oubliette_05 - Stagnant Blight/Stagnant Blight x100",
@@ -1147,6 +1151,7 @@
                 ]
             },
             {
+                "name" : "Stockade - Oubliette 05_1",
                 "sections": [
                     {
                         "ref": "Stockade/Stockade - Oubliette_05_1 - Furious Blight/Furious Blight x10",
@@ -1162,6 +1167,7 @@
                 ]
             },
             {
+                "name" : "Stockade - Oubliette 05_2",
                 "sections": [
                     {
                         "ref": "Stockade/Stockade - Oubliette_05_2 - Stagnant Blight/Stagnant Blight x10",
@@ -1177,6 +1183,7 @@
                 ]
             },
             {
+                "name" : "Stockade - Oubliette 05_3",
                 "sections": [
                     {
                         "ref": "Stockade/Stockade - Oubliette_05_3 - Chain of Sorcery (In Pot)/Chain of Sorcery (+1 Relic Slot)",
@@ -1192,6 +1199,7 @@
                 ]
             },
             {
+                "name" : "Stockade - Oubliette 06",
                 "sections": [
                     {
                         "ref": "Stockade/Stockade - Oubliette_06 - Stagnant Blight/Stagnant Blight x10",
@@ -1215,6 +1223,7 @@
                 ]
             },
             {
+                "name" : "Stockade - Oubliette 06_1",
                 "sections": [
                     {
                         "ref": "Stockade/Stockade - Oubliette_06_1 - Finding/Hoenir's Diary I",
@@ -1230,6 +1239,7 @@
                 ]
             },
             {
+                "name" : "Stockade - Oubliette 06_2",
                 "sections": [
                     {
                         "ref": "Stockade/Stockade - Oubliette_06_2 - Relic/Executioner's Gloves",
@@ -1245,6 +1255,7 @@
                 ]
             },
             {
+                "name" : "Stockade - Oubliette 06_3",
                 "sections": [
                     {
                         "ref": "Stockade/Stockade - Oubliette_06_3 - Chain of Sorcery/Chain of Sorcery (+1 Relic Slot)",
@@ -1260,6 +1271,7 @@
                 ]
             },
             {
+                "name" : "Stockade - Oubliette 06_4",
                 "sections": [
                     {
                         "ref": "Stockade/Stockade - Oubliette_06_4 - Tablet/Stockade Stone Tablet Fragment",
@@ -1275,6 +1287,7 @@
                 ]
             },
             {
+                "name" : "Stockade - Oubliette 07_1",
                 "sections": [
                     {
                         "ref": "Stockade/Stockade - Oubliette_07_1 - Finding/Forbidden Text Scrap",
@@ -1290,6 +1303,7 @@
                 ]
             },
             {
+                "name" : "Stockade - Oubliette 07_2",
                 "sections": [
                     {
                         "ref": "Stockade/Stockade - Oubliette_07_2 - Sub-Spirit Fight/Hidden Test Subject Fight",
@@ -1305,6 +1319,7 @@
                 ]
             },
             {
+                "name" : "Stockade - Oubliette 08",
                 "sections": [
                     {
                         "ref": "Stockade/Stockade - Oubliette_08 - Furious Blight Lower/Furious Blight x30",
@@ -1324,6 +1339,7 @@
                 ]
             },
             {
+                "name" : "Stockade - Oubliette 09",
                 "sections": [
                     {
                         "ref": "Stockade/Stockade - Oubliette_09 - x2 Amulet Fragments/x2 Amulet Fragments (+5 HP)",
@@ -1343,6 +1359,7 @@
                 ]
             },
             {
+                "name" : "Stockade - Oubliette 10",
                 "sections": [
                     {
                         "ref": "Stockade/Stockade - Oubliette_10 - Finding/Executioner's Missive",
@@ -1358,6 +1375,7 @@
                 ]
             },
             {
+                "name" : "Stockade - Oubliette 11",
                 "sections": [
                     {
                         "ref": "Stockade/Stockade - Oubliette_11 - Furious Blight/Furious Blight x10",
@@ -1373,6 +1391,7 @@
                 ]
             },
             {
+                "name" : "Stockade - Oubliette 12",
                 "sections": [
                     {
                         "ref": "Stockade/Stockade - Oubliette_12 - Sub-Spirit Fight/Dark Executioner Fight",
@@ -1388,6 +1407,7 @@
                 ]
             },
             {
+                "name" : "Stockade - Oubliette 13",
                 "sections": [
                     {
                         "ref": "Stockade/Stockade - Oubliette_13 - Chain of Sorcery/Chain of Sorcery (+1 Relic Slot)",
@@ -1415,6 +1435,7 @@
                 ]
             },
             {
+                "name" : "Stockade - Oubliette 13_1",
                 "sections": [
                     {
                         "ref": "Stockade/Stockade - Oubliette_13_1 - Relic/Aura's Ring",
@@ -1430,6 +1451,7 @@
                 ]
             },
             {
+                "name" : "Stockade - Oubliette 13_2",
                 "sections": [
                     {
                         "ref": "Stockade/Stockade - Oubliette_13_2 - Ancient Soul/Ancient Soul",
@@ -1445,6 +1467,7 @@
                 ]
             },
             {
+                "name" : "Stockade - Oubliette 14",
                 "sections": [
                     {
                         "ref": "Stockade/Stockade - Oubliette_14 - Finding/Hoenir's Diary II",
@@ -1460,6 +1483,7 @@
                 ]
             },
             {
+                "name" : "Stockade - Oubliette 15",
                 "sections": [
                     {
                         "ref": "Stockade/Stockade - Oubliette_15 - Main Spirit Fight/Hoenir, Keeper Of The Abyss Fight",
@@ -1475,6 +1499,7 @@
                 ]
             },
             {
+                "name" : "Stockade - Oubliette 16",
                 "sections": [
                     {
                         "ref": "Stockade/Stockade - Oubliette_16 - Stagnant Blight/Stagnant Blight x10",
