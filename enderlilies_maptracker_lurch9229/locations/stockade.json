@@ -529,8 +529,7 @@
                             "setting_amulets"
                         ],
                         "access_rules": [
-                            "^$Oubliette09x2AmuletFragments",
-                            "[silva, ulv, djump ,dodge2]"
+                            "^$Oubliette09x2AmuletFragments"
                         ],
                         "item_count": 2
                     }
