@@ -334,3 +334,35 @@ LOCATION_MAPPING =
     [0x717330] = {"@Cliffside Hamlet West/Cliffside Hamlet - Village_16 - Finding/Faden's Letter"},
     [0x717331] = {"@Cliffside Hamlet West/Cliffside Hamlet - Village_16 - Tablet/Hamlet Stone Tablet Fragment"}
 }
+
+START_MAPPING =
+{
+    [0]   = "start_Start",
+    [3]   = "start_Cellar",
+    [5]   = "start_CathedralCloister",
+    [9]   = "start_SaintsPassage",
+    [12]  = "start_Crossroads",
+    [19]  = "start_CollapsedShack",
+    [23]  = "start_BridgeHead",
+    [35]  = "start_RuinedCastleCellar",
+    [38]  = "start_GuestChamber",
+    [41]  = "start_MaelstromRemparts",
+    [55]  = "start_BastionGates",
+    [61]  = "start_Courtyard",
+    [62]  = "start_SecondSpireChamber",
+    [68]  = "start_MonumentOfTheWind",
+    [72]  = "start_MourningHall",
+    [78]  = "start_DryadLake",
+    [83]  = "start_WitchsHermitage",
+    [87]  = "start_CovenHalls",
+    [91]  = "start_BottomOfTheWell",
+    [93]  = "start_Charnel",
+    [103] = "start_Ossuary",
+    [106] = "start_GreatHall",
+    [115] = "start_Aqueduct",
+    [123] = "start_Cells",
+    [132] = "start_DarkChamber",
+    [138] = "start_ExecutionGrounds",
+    [145] = "start_Lab1",
+    [150] = "start_Lab2",
+}

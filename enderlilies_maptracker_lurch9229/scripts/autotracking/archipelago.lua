@@ -34,6 +34,9 @@ function onClear(slot_data)
         end
     end
     Tracker:FindObjectForCode("apLayout").Active = true
+    
+    currentStart = START_MAPPING[tonumber(SLOT_DATA["SETTINGS:starting_room"])]
+    Tracker:FindObjectForCode(currentStart).Active = true
 end
 
 --called when a location gets cleared
