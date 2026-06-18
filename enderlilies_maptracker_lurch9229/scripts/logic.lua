@@ -17,6 +17,10 @@ function getLocAccess(location)
   return obj.AccessibilityLevel
 end
 
+function canReachLoc(location)
+  return getLocAccess(location) >= AccessibilityLevel.Normal
+end
+
 function getAccess(code, amount)
   if string.sub(code,1,1) == "@" then
     return getLocAccess(code)
@@ -31,29 +35,38 @@ function isSpawn(location)
   return Tracker:FindObjectForCode("start_" .. location).Active
 end
 
-function finishBEnd()
-  print("can reach b")
-  return getLocAccess("@Abyss03Left") >= AccessibilityLevel.Normal
+function canReachBEnd()
+  return canReachLoc("@Abyss03Left")
 end
 
-function toggleBEnd()
-  local bEnd = Tracker:FindObjectForCode("gomode")
-  print("toggle B")
-  if finishBEnd() == true
-  then
-    print("b toggled on")
-    bEnd.Active = true
-    return Tracker:FindObjectForCode("Bend").Active
-  end
+function canGetAegisCurio()
+  return canReachLoc("@Cathedral/Cathedral - Church_13 - Relic/Luminant Aegis Curio")
 end
 
-function finishCEnd()
-  print("toggle c")
-  if finishBEnd() == true and has ("luminantcurio")
-  then
-  Tracker:FindObjectForCode("Cend").Active = true
-  if Tracker:FindObjectForCode("gomode").CurrentStage <2 then
-    Tracker:FindObjectForCode("gomode").CurrentStage = 2
+function toggleGoModeItem()
+  local goMode = Tracker:FindObjectForCode("gomode")
+  if goMode == nil then
+    print("Couldn't find object gomode !")
+    return
   end
+
+  if canReachBEnd() then
+    if not goMode.Active then
+      goMode.Active = true
+    end
+
+    if canGetAegisCurio() then
+      if (goMode.CurrentStage ~= 2) then
+        goMode.CurrentStage = 2
+      end
+    else
+      if (goMode.CurrentStage ~= 1) then
+        goMode.CurrentStage = 1
+      end
+    end
+  else
+    if goMode.Active then
+      goMode.Active = false
+    end
   end
 end
