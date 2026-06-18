@@ -5,6 +5,7 @@ ScriptHost:LoadScript("scripts/logic.lua")
 ScriptHost:LoadScript("scripts/logicGlitched.lua")
 ScriptHost:LoadScript("scripts/generated.lua")
 ScriptHost:LoadScript("scripts/layouts.lua")
+ScriptHost:LoadScript("scripts/layoutWatchers.lua")
 if AutoTracker.ReadVariable then
     ScriptHost:LoadScript("scripts/autotracking(uat).lua")
     ScriptHost:LoadScript("scripts/autotracking(ap).lua")

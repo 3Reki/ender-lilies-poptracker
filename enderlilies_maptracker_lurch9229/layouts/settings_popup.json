@@ -55,24 +55,6 @@
 			},
 			{
 				"type": "group",
-				"header": "Layout",
-				"content":
-				[
-					{
-						"type": "array",						
-						"orientation": "vertical",
-						"content":
-						[
-							{
-								"type": "item",
-								"item": "apLayout"
-							}
-						]
-					}
-				]
-			},
-			{
-				"type": "group",
 				"header": "Starting Location",
 				"content":
 				[
@@ -205,6 +187,24 @@
 							{
 								"type": "item",
 								"item": "start_Lab2"
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "group",
+				"header": "Layout",
+				"content":
+				[
+					{
+						"type": "array",						
+						"orientation": "vertical",
+						"content":
+						[
+							{
+								"type": "item",
+								"item": "apLayout"
 							}
 						]
 					}

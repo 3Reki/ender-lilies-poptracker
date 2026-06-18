@@ -31,43 +31,6 @@ function isSpawn(location)
   return Tracker:FindObjectForCode("start_" .. location).Active
 end
 
-------------------------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------------------
---------------------------------------------------LAYOUT WATCHERS-------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------------------
-
-function apLayoutChange()
-  local aptablets = Tracker:FindObjectForCode("apLayout")
-  if (string.find(Tracker.ActiveVariantUID, "map_tracker")) or
-  (string.find(Tracker.ActiveVariantUID, "world_map")) then
-    if aptablets.Active then
-        Tracker:AddLayouts("layouts/item_grids_AP.json")
-        Tracker:AddLayouts("layouts/broadcast_horizontal_AP.json")
-    else
-        Tracker:AddLayouts("layouts/item_grids_standard.json")
-end
-  elseif (string.find(Tracker.ActiveVariantUID, "items_only")) then
-    if aptablets.Active then
-      Tracker:AddLayouts("layouts/items_only_AP.json")
-      Tracker:AddLayouts("layouts/broadcast_horizontal_AP.json")
-    else
-      Tracker:AddLayouts("layouts/items_only.json")
-end
-  elseif (string.find(Tracker.ActiveVariantUID, "minimal_items")) then
-    if aptablets.Active then
-      Tracker:AddLayouts("minimal_layout/items_minimal_AP.json")
-      Tracker:AddLayouts("minimal_layout/broadcast_minimal_AP.json")
-    else
-      Tracker:AddLayouts("minimal_layout/items_minimal.json")
-    end
-  end
-  finishCEnd()
-end
-
-ScriptHost:AddWatchForCode("useApLayout", "apLayout", apLayoutChange)
-
-
 function finishBEnd()
   print("can reach b")
   return getLocAccess("@Abyss03Left") >= AccessibilityLevel.Normal
