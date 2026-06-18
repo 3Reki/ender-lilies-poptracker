@@ -4,6 +4,7 @@
 -- addition it will keep track of what items are local items and which one are remote using the globals LOCAL_ITEMS and GLOBAL_ITEMS
 -- this is useful since remote items will not reset but local items might
 ScriptHost:LoadScript("scripts/autotracking/locationMapping.lua")
+ScriptHost:LoadScript("scripts/utilsDebug.lua")
 
 CUR_INDEX = -1
 SLOT_DATA = nil
@@ -44,7 +45,7 @@ function onLocation(location_id, location_name)
     if not v and AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
         print(string.format("onLocation: could not find location mapping for id %s", location_id))
     end
-    if not v[1] then
+    if not v or not v[1] then
         return
     end
     local obj = Tracker:FindObjectForCode(v[1])
