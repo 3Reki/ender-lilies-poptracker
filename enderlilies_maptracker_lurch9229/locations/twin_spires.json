@@ -505,7 +505,8 @@
                             "setting_c_end"
                         ],
                         "access_rules": [
-                            "^$Fort14Tabletx800StagnantWritingontheWall"
+                            "^$Fort14Tabletx800StagnantWritingontheWall",
+                            "[], @Fort14Right, hook, hammer, unlock"
                         ],
                         "item_count": 3,
                         "clear_as_group": true

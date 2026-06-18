@@ -252,7 +252,9 @@
                             "setting_amulets"
                         ],
                         "access_rules": [
-                            "^$Forest07AmuletFragment"
+                            "^$Forest07AmuletFragment",
+                            "[], @Forest07Left",
+                            "[], @Forest07Bottom, $AIRSTALL"
                         ],
                         "item_count": 1
                     }
@@ -321,7 +323,8 @@
                             "setting_blight"
                         ],
                         "access_rules": [
-                            "^$Forest08FuriousBlightx10"
+                            "^$Forest08FuriousBlightx10",
+                            "[], @Forest08Top, $AIRSTALL"
                         ],
                         "item_count": 1
                     }

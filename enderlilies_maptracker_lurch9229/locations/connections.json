@@ -35,7 +35,8 @@
             {
                 "name": "Abyss02Top",
                 "access_rules": [
-                    "^$Abyss02Top"
+                    "^$Abyss02Top",
+                    "[], $Abyss02TopGlitched"
                 ]
             },
             {
