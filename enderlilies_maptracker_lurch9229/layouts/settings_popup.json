@@ -83,59 +83,59 @@
 						[
 							{
 								"type": "item",
-								"item": "start_lily_chamber_off"
+								"item": "start_Start"
 							},
 							{
 								"type": "item",
-								"item": "start_cellar_off"
+								"item": "start_Cellar"
 							},
 							{
 								"type": "item",
-								"item":"start_cloister_off"
+								"item":"start_CathedralCloister"
 							},
 							{
 								"type": "item",
-								"item":"start_saint_passage_off"
+								"item":"start_SaintsPassage"
 							},
 							{
 								"type": "item",
-								"item":"start_crossroads_off"
+								"item":"start_Crossroads"
 							},
 							{
 								"type": "item",
-								"item":"start_shack_off"
+								"item":"start_CollapsedShack"
 							},
 							{
 								"type": "item",
-								"item":"start_bridgehead_off"
+								"item":"start_BridgeHead"
 							},
 							{
 								"type": "item",
-								"item":"start_castle_cellar_off"
+								"item":"start_RuinedCastleCellar"
 							},
 							{
 								"type": "item",
-								"item":"start_guest_chambers_off"
+								"item":"start_GuestChamber"
 							},
 							{
 								"type": "item",
-								"item":"start_ramparts_off"
+								"item":"start_MaelstromRemparts"
 							},
 							{
 								"type": "item",
-								"item":"start_bastion_off"
+								"item":"start_BastionGates"
 							},
 							{
 								"type": "item",
-								"item":"start_courtyard_off"
+								"item":"start_Courtyard"
 							},
 							{
 								"type": "item",
-								"item":"start_second_spire_off"
+								"item":"start_SecondSpireChamber"
 							},
 							{
 								"type": "item",
-								"item":"start_motw_off"
+								"item":"start_MonumentOfTheWind"
 							}
 						]
 					}
@@ -152,59 +152,59 @@
 						[
 							{
 								"type": "item",
-								"item":"start_mourning_hall_off"
+								"item":"start_MourningHall"
 							},
 							{
 								"type": "item",
-								"item": "start_dryad_lake_off"
+								"item": "start_DryadLake"
 							},
 							{
 								"type": "item",
-								"item": "start_witchs_hermitage_off"
+								"item": "start_WitchsHermitage"
 							},
 							{
 								"type": "item",
-								"item":"start_coven_halls_off"
+								"item": "start_CovenHalls"
 							},
 							{
 								"type": "item",
-								"item":"start_botw_off"
+								"item": "start_BottomOfTheWell"
 							},
 							{
 								"type": "item",
-								"item":"start_charnel_off"
+								"item": "start_Charnel"
 							},
 							{
 								"type": "item",
-								"item":"start_ossuary_off"
+								"item": "start_Ossuary"
 							},
 							{
 								"type": "item",
-								"item":"start_great_hall_off"
+								"item": "start_GreatHall"
 							},
 							{
 								"type": "item",
-								"item":"start_aqueduct_off"
+								"item": "start_Aqueduct"
 							},
 							{
 								"type": "item",
-								"item":"start_cells_off"
+								"item": "start_Cells"
 							},
 							{
 								"type": "item",
-								"item":"start_dark_chamber_off"
+								"item": "start_DarkChamber"
 							},
 							{
 								"type": "item",
-								"item":"start_execution_off"
+								"item": "start_ExecutionGrounds"
 							},
 							{
 								"type": "item",
-								"item":"start_labs1_off"
+								"item": "start_Lab1"
 							},
 							{
 								"type": "item",
-								"item":"start_labs2_off"
+								"item": "start_Lab2"
 							}
 						]
 					}

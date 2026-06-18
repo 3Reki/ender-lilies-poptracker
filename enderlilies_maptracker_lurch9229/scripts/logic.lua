@@ -27,39 +27,8 @@ function getAccess(code, amount)
   end
 end
 
-spawn_table = {
-  ["Start"] = "start_lily_chamber_On",
-  ["Cellar"] = "start_cellar_on",
-  ["CathedralCloister"] = "start_cloister_on",
-  ["SaintsPassage"] = "start_saint_passage_on",
-  ["Crossroads"] = "start_crossroads_on",
-  ["CollapsedShack"] = "start_shack_on",
-  ["BridgeHead"] = "start_bridgehead_on",
-  ["RuinedCastleCellar"] = "start_castle_cellar_on",
-  ["GuestChamber"] = "start_guest_chambers_on",
-  ["MaelstromRemparts"] = "start_ramparts_on",
-  ["BastionGates"] = "start_bastion_on",
-  ["Courtyard"] = "start_courtyard_on",
-  ["SecondSpireChamber"] = "start_second_spire_on",
-  ["MonumentOfTheWind"] = "start_motw_on",
-  ["MourningHall"] = "start_mourning_hall_on",
-  ["DryadLake"] = "start_dryad_lake_on",
-  ["WitchsHermitage"] = "start_witchs_hermitage_on",
-  ["CovenHalls"] = "start_coven_halls_on",
-  ["BottomOfTheWell"] = "start_botw_on",
-  ["Charnel"] = "start_charnel_on",
-  ["Ossuary"] = "start_ossuary_on",
-  ["GreatHall"] = "start_great_hall_on",
-  ["Aqueduct"] = "start_aqueduct_on",
-  ["Cells"] = "start_cells_on",
-  ["DarkChamber"] = "start_dark_chamber_on",
-  ["ExecutionGrounds"] = "start_execution_on",
-  ["Lab1"] = "start_labs1_on",
-  ["Lab2"] = "start_labs2_on",
-}
-
 function isSpawn(location)
-  return has(spawn_table[location])
+  return Tracker:FindObjectForCode("start_" .. location).Active
 end
 
 ------------------------------------------------------------------------------------------------------------------------------
