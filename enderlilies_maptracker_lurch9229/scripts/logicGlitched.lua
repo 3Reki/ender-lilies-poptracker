@@ -41,7 +41,7 @@ function hasLocGlitched(location)
 end
 
 function Abyss02TopGlitched()
-  return hasLocGlitched("@Abyss01Top") and CHARGE() and has("hammer") and has("aquatic") and has("hook") and 
+  return hasLocGlitched("@Abyss/01/Top") and CHARGE() and has("hammer") and has("aquatic") and has("hook") and 
   (
     has("sinner") and LEDGE() or
     has("verboten") and has("silva") or

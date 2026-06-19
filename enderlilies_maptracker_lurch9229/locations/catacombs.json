@@ -138,7 +138,7 @@
                         ],
                         "access_rules": [
                             "^$Cave05FuriousBlightx10",
-                            "[], @Cave05Bottom, $AIRSTALL"
+                            "[], @Cave/05/Bottom, $AIRSTALL"
                         ],
                         "item_count": 1
                     }

@@ -36,7 +36,7 @@ function isSpawn(location)
 end
 
 function canReachBEnd()
-  return canReachLoc("@Abyss03Left")
+  return canReachLoc("@Abyss/03/Left")
 end
 
 function canGetAegisCurio()

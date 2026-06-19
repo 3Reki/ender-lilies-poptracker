@@ -460,8 +460,8 @@
                         ],
                         "access_rules": [
                             "^$Village07ChainofSorcery",
-                            "[], @Village07Left, plume",
-                            "[], @Village07Left, $AIRSTALL"
+                            "[], @Village/07/Left, plume",
+                            "[], @Village/07/Left, $AIRSTALL"
                         ],
                         "item_count": 1
                     }

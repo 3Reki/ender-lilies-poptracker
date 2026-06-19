@@ -506,7 +506,7 @@
                         ],
                         "access_rules": [
                             "^$Fort14Tabletx800StagnantWritingontheWall",
-                            "[], @Fort14Right, hook, hammer, unlock"
+                            "[], @Fort/14/Right, hook, hammer, unlock"
                         ],
                         "item_count": 3,
                         "clear_as_group": true

@@ -253,8 +253,8 @@
                         ],
                         "access_rules": [
                             "^$Forest07AmuletFragment",
-                            "[], @Forest07Left",
-                            "[], @Forest07Bottom, $AIRSTALL"
+                            "[], @Forest/07/Left",
+                            "[], @Forest/07/Bottom, $AIRSTALL"
                         ],
                         "item_count": 1
                     }
@@ -324,7 +324,7 @@
                         ],
                         "access_rules": [
                             "^$Forest08FuriousBlightx10",
-                            "[], @Forest08Top, $AIRSTALL"
+                            "[], @Forest/08/Top, $AIRSTALL"
                         ],
                         "item_count": 1
                     }

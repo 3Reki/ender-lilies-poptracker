@@ -273,8 +273,8 @@
                         ],
                         "access_rules": [
                             "^$Castle01PriestessDoll",
-                            "[], @Dog, $AIRSTALL",
-                            "[], @Dog, plume"
+                            "[], @Castle/01/Dog, $AIRSTALL",
+                            "[], @Castle/01/Dog, plume"
                         ],
                         "item_count": 1
                     }
