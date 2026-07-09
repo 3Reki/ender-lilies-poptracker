@@ -32,6 +32,3 @@ Items Only - Displays no maps and shows all obtainable items.
 Items Only Minimal - Only displays logical items needed for any playthrough.
 Map Tracker -  The full works. Contains all obtainable items and all maps in detail to help learn locations in rooms.
 World Map - Only contains the world map and all obtainable items.
-Map and Minimal Items - Contains all maps with the minimal item layout.
-World Map Minimal -  Contains only the world map and minimal items layout.
-Maps Only - Contains no items but displays larger maps (can still be used in conjuction with autotracker and broadcast view)
