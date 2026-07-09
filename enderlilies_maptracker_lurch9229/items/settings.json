@@ -208,7 +208,7 @@
     {
         "name": "Lily's Chamber",
         "type": "toggle",
-        "img": "images/settings/Start_On.png",
+        "img": "images/settings/starting_locations/Start_On.png",
         "codes": "start_Start",
         "initial_active_state": true,
         "disabled_img_mods": "brightness|.5"
@@ -216,190 +216,189 @@
     {
         "name": "Cellar",
         "type": "toggle",
-        "img": "images/settings/Cellar_On.png",
+        "img": "images/settings/starting_locations/Cellar_On.png",
         "codes": "start_Cellar",
         "disabled_img_mods": "brightness|.5"
     },
     {
         "name": "Cathedral Cloister",
         "type": "toggle",
-        "img": "images/settings/Cloister_On.png",
+        "img": "images/settings/starting_locations/Cloister_On.png",
         "codes": "start_CathedralCloister",
         "disabled_img_mods": "brightness|.5"
     },
     {
         "name": "Saint's Passage",
         "type": "toggle",
-        "img": "images/settings/Saint_Passage_On.png",
+        "img": "images/settings/starting_locations/Saint_Passage_On.png",
         "codes": "start_SaintsPassage",
         "disabled_img_mods": "brightness|.5"
     },
     {
         "name": "Crossroads",
         "type": "toggle",
-        "img": "images/settings/Crossroads_On.png",
+        "img": "images/settings/starting_locations/Crossroads_On.png",
         "codes": "start_Crossroads",
         "disabled_img_mods": "brightness|.5"
     },
     {
         "name": "Collapsed Shack",
         "type": "toggle",
-        "img": "images/settings/Shack_On.png",
+        "img": "images/settings/starting_locations/Shack_On.png",
         "codes": "start_CollapsedShack",
         "disabled_img_mods": "brightness|.5"
     },
     {
         "name": "Bridgehead",
         "type": "toggle",
-        "img": "images/settings/Bridgehead_On.png",
+        "img": "images/settings/starting_locations/Bridgehead_On.png",
         "codes": "start_BridgeHead",
         "disabled_img_mods": "brightness|.5"
     },
     {
         "name": "Ruined Castle Cellar",
         "type": "toggle",
-        "img": "images/settings/Castle_Cellar_On.png",
+        "img": "images/settings/starting_locations/Castle_Cellar_On.png",
         "codes": "start_RuinedCastleCellar",
         "disabled_img_mods": "brightness|.5"
     },
     {
         "name": "Guest Chambers",
         "type": "toggle",
-        "img": "images/settings/Guest_Chamber_On.png",
+        "img": "images/settings/starting_locations/Guest_Chamber_On.png",
         "codes": "start_GuestChamber",
         "disabled_img_mods": "brightness|.5"
     },
     {
         "name": "Maelstrom Ramparts",
         "type": "toggle",
-        "img": "images/settings/Ramparts_On.png",
+        "img": "images/settings/starting_locations/Ramparts_On.png",
         "codes": "start_MaelstromRemparts",
         "disabled_img_mods": "brightness|.5"
     },
     {
         "name": "Bastion Gates",
         "type": "toggle",
-        "img": "images/settings/Bastion_On.png",
+        "img": "images/settings/starting_locations/Bastion_On.png",
         "codes": "start_BastionGates",
         "disabled_img_mods": "brightness|.5"
     },
     {
         "name": "Courtyard",
         "type": "toggle",
-        "img": "images/settings/Courtyard_On.png",
+        "img": "images/settings/starting_locations/Courtyard_On.png",
         "codes": "start_Courtyard",
         "disabled_img_mods": "brightness|.5"
     },
     {
         "name": "Second Spire Chamber",
         "type": "toggle",
-        "img": "images/settings/Second_Spire_On.png",
+        "img": "images/settings/starting_locations/Second_Spire_On.png",
         "codes": "start_SecondSpireChamber",
         "disabled_img_mods": "brightness|.5"
     },
     {
         "name": "Monument of the Wind",
         "type": "toggle",
-        "img": "images/settings/Monument_of_the_Wind_On.png",
+        "img": "images/settings/starting_locations/Monument_of_the_Wind_On.png",
         "codes": "start_MonumentOfTheWind",
         "disabled_img_mods": "brightness|.5"
     },
     {
         "name": "Mourning Hall",
         "type": "toggle",
-        "img": "images/settings/Mourning_Hall_On.png",
+        "img": "images/settings/starting_locations/Mourning_Hall_On.png",
         "codes": "start_MourningHall",
         "disabled_img_mods": "brightness|.5"
     },
     {
         "name": "Dryad Lake",
         "type": "toggle",
-        "img": "images/settings/Dryad_Lake_On.png",
+        "img": "images/settings/starting_locations/Dryad_Lake_On.png",
         "codes": "start_DryadLake",
         "disabled_img_mods": "brightness|.5"
     },
     {
         "name": "Witch's Hermitage",
         "type": "toggle",
-        "img": "images/settings/Hermitage_On.png",
+        "img": "images/settings/starting_locations/Hermitage_On.png",
         "codes": "start_WitchsHermitage",
         "disabled_img_mods": "brightness|.5"
     },
     {
         "name": "Coven Halls",
         "type": "toggle",
-        "img": "images/settings/Coven_Halls_On.png",
+        "img": "images/settings/starting_locations/Coven_Halls_On.png",
         "codes": "start_CovenHalls",
         "disabled_img_mods": "brightness|.5"
     },
     {
         "name": "Bottom of the Well",
         "type": "toggle",
-        "img": "images/settings/Well_On.png",
+        "img": "images/settings/starting_locations/Well_On.png",
         "codes": "start_BottomOfTheWell",
         "disabled_img_mods": "brightness|.5"
     },
     {
         "name": "Charnel",
         "type": "toggle",
-        "img": "images/settings/Charnel_On.png",
+        "img": "images/settings/starting_locations/Charnel_On.png",
         "codes": "start_Charnel",
         "disabled_img_mods": "brightness|.5"
     },
     {
         "name": "Ossuary",
         "type": "toggle",
-        "img": "images/settings/Ossuary_On.png",
+        "img": "images/settings/starting_locations/Ossuary_On.png",
         "codes": "start_Ossuary",
         "disabled_img_mods": "brightness|.5"
     },
     {
         "name": "Great Hall",
         "type": "toggle",
-        "img": "images/settings/Great_Hall_On.png",
+        "img": "images/settings/starting_locations/Great_Hall_On.png",
         "codes": "start_GreatHall",
         "disabled_img_mods": "brightness|.5"
     },
     {
         "name": "Aqueduct",
         "type": "toggle",
-        "img": "images/settings/Aqueduct_On.png",
+        "img": "images/settings/starting_locations/Aqueduct_On.png",
         "codes": "start_Aqueduct",
         "disabled_img_mods": "brightness|.5"
     },
     {
         "name": "Cells",
         "type": "toggle",
-        "img": "images/settings/Cells_On.png",
+        "img": "images/settings/starting_locations/Cells_On.png",
         "codes": "start_Cells",
         "disabled_img_mods": "brightness|.5"
     },
     {
         "name": "Dark Chamber",
         "type": "toggle",
-        "img": "images/settings/Dark_Chamber_On.png",
+        "img": "images/settings/starting_locations/Dark_Chamber_On.png",
         "codes": "start_DarkChamber",
         "disabled_img_mods": "brightness|.5"
     },
     {
         "name": "Execution Grounds",
         "type": "toggle",
-        "img": "images/settings/Execution_Grounds_On.png",
+        "img": "images/settings/starting_locations/Execution_Grounds_On.png",
         "codes": "start_ExecutionGrounds",
-        "disabled_img_mods": "brightness|.5",
         "disabled_img_mods": "brightness|.5"
     },
     {
         "name": "Subterranean Lab B1",
         "type": "toggle",
-        "img": "images/settings/Labs1_On.png",
+        "img": "images/settings/starting_locations/Labs1_On.png",
         "codes": "start_Lab1",
         "disabled_img_mods": "brightness|.5"
     },
     {
         "name": "Subterranean Lab B2",
         "type": "toggle",
-        "img": "images/settings/Labs2_On.png",
+        "img": "images/settings/starting_locations/Labs2_On.png",
         "codes": "start_Lab2",
         "disabled_img_mods": "brightness|.5"
     }
