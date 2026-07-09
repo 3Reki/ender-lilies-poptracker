@@ -1,0 +1,30 @@
+﻿{
+	"settings_popup":
+	{
+		"type": "container",
+		"background": "#000000",
+		"content": 
+		{
+			"type": "tabbed",
+			"tabs": 
+			[
+				{
+					"title": "General",
+					"content": 
+					{
+						"type": "layout",
+						"key": "general_settings"
+					}
+				},
+				{
+					"title": "Starting Locations",
+					"content": 
+					{
+						"type": "layout",
+						"key": "starting_locations"
+					}
+				}
+			]
+		}
+	}
+}

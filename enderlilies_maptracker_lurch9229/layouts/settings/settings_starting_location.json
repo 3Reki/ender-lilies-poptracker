@@ -1,0 +1,532 @@
+{
+    "starting_locations":
+    {
+        "type": "array",
+        "orientation": "vertical",
+        "content": 
+        [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "h_alignment": "stretch",
+                "content": 
+                [
+                    {
+                        "type": "array",
+                        "class": ".starting_loc_padding"
+                    },
+                    {
+                        "type": "group",
+                        "header": "Cathedral",
+                        "class": ".starting_loc_group",
+                        "content":
+                        {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "content":
+                            [
+                                {
+                                    "type": "array",
+                                    "margin": "229, 0, 0, 0"
+                                },
+                                {
+                                    "type": "item",
+                                    "item": "start_Start"
+                                },
+                                {
+                                    "type": "item",
+                                    "item": "start_Cellar"
+                                },
+                                {
+                                    "type": "item",
+                                    "item": "start_CathedralCloister"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "array",
+                        "class": ".starting_loc_padding"
+                    },
+                    {
+                        "type": "group",
+                        "header": "White Parish",
+                        "class": ".starting_loc_group",
+                        "content":
+                        {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "content":
+                            [
+                                {
+                                    "type": "array",
+                                    "margin": "229, 0, 0, 0"
+                                },
+                                {
+                                    "type": "item",
+                                    "item":"start_SaintsPassage"
+                                },
+                                {
+                                    "type": "item",
+                                    "item":"start_Crossroads"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "array",
+                        "class": ".starting_loc_padding"
+                    },
+                    {
+                        "type": "group",
+                        "header": "Cliffside Hamlet",
+                        "class": ".starting_loc_group",
+                        "content":
+                        {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "content":
+                            [
+                                {
+                                    "type": "array",
+                                    "margin": "229, 0, 0, 0"
+                                },
+                                {
+                                    "type": "item",
+                                    "item":"start_CollapsedShack"
+                                },
+                                {
+                                    "type": "item",
+                                    "item":"start_BridgeHead"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "class": ".starting_loc_padding"
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "content": 
+                [
+                    {
+                        "type": "array",
+                        "class": ".starting_loc_padding"
+                    },
+                    {
+                        "type": "group",
+                        "header": "Ruined Castle",
+                        "class": ".starting_loc_group",
+                        "content":
+                        {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "content":
+                            [
+                                {
+                                    "type": "array",
+                                    "margin": "229, 0, 0, 0"
+                                },
+                                {
+                                    "type": "item",
+                                    "item":"start_RuinedCastleCellar"
+                                },
+                                {
+                                    "type": "item",
+                                    "item":"start_GuestChamber"
+                                },
+                                {
+                                    "type": "item",
+                                    "item":"start_MaelstromRemparts"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "array",
+                        "class": ".starting_loc_padding"
+                    },
+                    {
+                        "type": "group",
+                        "header": "Twin Spires",
+                        "class": ".starting_loc_group",
+                        "content":
+                        {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "content":
+                            [
+                                {
+                                    "type": "array",
+                                    "margin": "229, 0, 0, 0"
+                                },
+                                {
+                                    "type": "item",
+                                    "item":"start_BastionGates"
+                                },
+                                {
+                                    "type": "item",
+                                    "item":"start_Courtyard"
+                                },
+                                {
+                                    "type": "item",
+                                    "item":"start_SecondSpireChamber"
+                                },
+                                {
+                                    "type": "item",
+                                    "item":"start_MonumentOfTheWind"
+                                },
+                                {
+                                    "type": "item",
+                                    "item":"start_MourningHall"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "array",
+                        "class": ".starting_loc_padding"
+                    },
+                    {
+                        "type": "group",
+                        "header": "Witch's Thicket",
+                        "class": ".starting_loc_group",
+                        "content":
+                        {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "content":
+                            [
+                                {
+                                    "type": "array",
+                                    "margin": "229, 0, 0, 0"
+                                },
+                                {
+                                    "type": "item",
+                                    "item": "start_DryadLake"
+                                },
+                                {
+                                    "type": "item",
+                                    "item": "start_WitchsHermitage"
+                                },
+                                {
+                                    "type": "item",
+                                    "item": "start_CovenHalls"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "class": ".starting_loc_padding"
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "content": 
+                [
+                    {
+                        "type": "array",
+                        "class": ".starting_loc_padding"
+                    },
+                    {
+                        "type": "group",
+                        "header": "Catacombs",
+                        "class": ".starting_loc_group",
+                        "content":
+                        {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "content":
+                            [
+                                {
+                                    "type": "array",
+                                    "margin": "229, 0, 0, 0"
+                                },
+                                {
+                                    "type": "item",
+                                    "item": "start_BottomOfTheWell"
+                                },
+                                {
+                                    "type": "item",
+                                    "item": "start_Charnel"
+                                },
+                                {
+                                    "type": "item",
+                                    "item": "start_Ossuary"
+                                },
+                                {
+                                    "type": "item",
+                                    "item": "start_GreatHall"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "array",
+                        "class": ".starting_loc_padding"
+                    },
+                    {
+                        "type": "group",
+                        "header": "Stockade",
+                        "class": ".starting_loc_group",
+                        "content":
+                        {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "content":
+                            [
+                                {
+                                    "type": "array",
+                                    "margin": "229, 0, 0, 0"
+                                },
+                                {
+                                    "type": "item",
+                                    "item": "start_Aqueduct"
+                                },
+                                {
+                                    "type": "item",
+                                    "item": "start_Cells"
+                                },
+                                {
+                                    "type": "item",
+                                    "item": "start_DarkChamber"
+                                },
+                                {
+                                    "type": "item",
+                                    "item": "start_ExecutionGrounds"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "array",
+                        "class": ".starting_loc_padding"
+                    },
+                    {
+                        "type": "group",
+                        "header": "Verboten Domain",
+                        "class": ".starting_loc_group",
+                        "content":
+                        {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "content":
+                            [
+                                {
+                                    "type": "array",
+                                    "margin": "229, 0, 0, 0"
+                                },
+                                {
+                                    "type": "item",
+                                    "item": "start_Lab1"
+                                },
+                                {
+                                    "type": "item",
+                                    "item": "start_Lab2"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "UNUSED": 
+    {
+        "type": "array",
+        "orientation": "vertical",
+        "content": 
+        [
+            {
+                "type": "group",
+                "header": "Cathedral",
+                "content":
+                {
+                    "type": "itemgrid",
+                    "h_alignment": "left",
+                    "item_size": "220,47",
+                    "margin": 0,
+                    "item_margin": 0,
+                    "rows":
+                    [
+                        [
+                            "start_Start",
+						    "start_Cellar",
+						    "start_CathedralCloister"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "group",
+                "header": "White Parish",
+                "content":
+                {
+                    "type": "itemgrid",
+                    "h_alignment": "left",
+                    "item_size": "220,47",
+                    "margin": 0,
+                    "item_margin": 0,
+                    "rows":
+                    [
+                        [
+                            "start_SaintsPassage",
+						    "start_Crossroads"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "group",
+                "header": "Cliffside Hamlet",
+                "content":
+                {
+                    "type": "itemgrid",
+                    "h_alignment": "left",
+                    "item_size": "220,47",
+                    "margin": 0,
+                    "item_margin": 0,
+                    "rows":
+                    [
+                        [
+                            "start_CollapsedShack",
+                            "start_BridgeHead"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "group",
+                "header": "Ruined Castle",
+                "content":
+                {
+                    "type": "itemgrid",
+                    "h_alignment": "left",
+                    "item_size": "254,39",
+                    "margin": 0,
+                    "item_margin": 0,
+                    "rows":
+                    [
+                        [
+                            "start_RuinedCastleCellar",
+                            "start_GuestChamber",
+                            "start_MaelstromRemparts"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "group",
+                "header": "Twin Spires",
+                "content":
+                {
+                    "type": "itemgrid",
+                    "h_alignment": "left",
+                    "item_size": "229,32",
+                    "margin": 0,
+                    "item_margin": "5, 0",
+                    "rows":
+                    [
+                        [
+                            "start_BastionGates",
+                            "start_Courtyard",
+                            "start_SecondSpireChamber",
+                            "start_MonumentOfTheWind",
+                            "start_MourningHall"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "group",
+                "header": "Witch's Thicket",
+                "content":
+                {
+                    "type": "itemgrid",
+                    "h_alignment": "left",
+                    "item_size": "220,47",
+                    "margin": 0,
+                    "item_margin": 0,
+                    "rows":
+                    [
+                        [
+                            "start_DryadLake",
+                            "start_WitchsHermitage",
+                            "start_CovenHalls"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "group",
+                "header": "Catacombs",
+                "margin": 0,
+                "content":
+                {
+                    "type": "itemgrid",
+                    "h_alignment": "left",
+                    "item_size": "220,47",
+                    "margin": 0,
+                    "item_margin": 0,
+                    "rows":
+                    [
+                        [
+                            "start_BottomOfTheWell",
+                            "start_Charnel",
+                            "start_Ossuary",
+                            "start_GreatHall"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "group",
+                "header": "Stockade",
+                "content":
+                {
+                    "type": "itemgrid",
+                    "h_alignment": "left",
+                    "item_size": "220,47",
+                    "margin": 0,
+                    "item_margin": 0,
+                    "rows":
+                    [
+                        [
+                            "start_Aqueduct",
+                            "start_Cells",
+                            "start_DarkChamber",
+                            "start_ExecutionGrounds"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "group",
+                "header": "Verboten Domain",
+                "content":
+                {
+                    "type": "itemgrid",
+                    "h_alignment": "left",
+                    "item_size": "220,47",
+                    "margin": 0,
+                    "item_margin": 0,
+                    "rows":
+                    [
+                        [
+                            "start_Lab1",
+                            "start_Lab2"
+                        ]
+                    ]
+                }
+            }
+        ]
+    }
+}

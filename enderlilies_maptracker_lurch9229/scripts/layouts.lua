@@ -1,6 +1,10 @@
+Tracker:AddClasses("layouts/settings/settings_classes.json")
+
 -- Tracker:AddLayouts("layouts/tracker_worldmap.json")
 Tracker:AddLayouts("layouts/events.json")
-Tracker:AddLayouts("layouts/settings_popup.json")
+Tracker:AddLayouts("layouts/settings/settings_popup.json")
+Tracker:AddLayouts("layouts/settings/settings_general.json")
+Tracker:AddLayouts("layouts/settings/settings_starting_location.json")
 -- Tracker:AddLayouts("layouts/broadcast_horizontal.json")
 
 if (string.find(Tracker.ActiveVariantUID, "minimal_items")) then

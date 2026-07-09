@@ -1,0 +1,75 @@
+{
+    "general_settings":
+	{
+		"type": "array",
+		"margin": 5,
+		"orientation": "horizontal",
+		"content": 
+		[
+			{
+				"type": "group",
+				"header": "Randomizations",
+				"content":
+				[
+					{
+						"type": "array",						
+						"orientation": "vertical",
+						"content":
+						[
+							{
+								"type": "item",
+								"item": "setting_all_off"
+							},
+							{
+								"type": "item",
+								"item": "setting_spirits_off"
+							},
+							{
+								"type": "item",
+								"item": "setting_relics_off"
+							},
+							{
+								"type": "item",
+								"item": "setting_amulets_off"
+							},
+							{
+								"type": "item",
+								"item": "setting_chains_off"
+							},
+							{
+								"type": "item",
+								"item": "setting_blight_off"
+							},
+							{
+								"type": "item",
+								"item": "setting_wishes_off"
+							},
+							{
+								"type": "item",
+								"item": "setting_findings_off"
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "group",
+				"header": "Layout",
+				"content":
+				[
+					{
+						"type": "array",						
+						"orientation": "vertical",
+						"content":
+						[
+							{
+								"type": "item",
+								"item": "apLayout"
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

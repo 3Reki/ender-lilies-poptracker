@@ -1,0 +1,11 @@
+{
+    ".starting_loc_group": 
+    {
+        "background": "#333",
+        "margin": 5
+    },
+    ".starting_loc_padding":
+    {
+        "margin": 2
+    }
+}
