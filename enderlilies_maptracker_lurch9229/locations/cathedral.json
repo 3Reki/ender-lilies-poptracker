@@ -64,7 +64,8 @@
                     {
                         "name": "Guardian Siegrid Fight",
                         "visibility_rules": [
-                            ""
+                            "setting_all",
+                            "setting_spirits"
                         ],
                         "access_rules": [
                             "^$Church03defeatSiegrid"

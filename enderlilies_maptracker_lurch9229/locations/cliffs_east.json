@@ -17,6 +17,10 @@
                 "sections": [
                     {
                         "name": "Gerrod, The Elder Warrior Fight",
+                        "visibility_rules": [
+                            "setting_all",
+                            "setting_spirits"
+                        ],
                         "access_rules": [
                             "^$Village10defeatGerrod"
                         ],
